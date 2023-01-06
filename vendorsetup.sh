@@ -18,7 +18,7 @@
 #  Please maintain this if you use this script or any part of it
 #
 
-export TW_DEFAULT_LANGUAGE="en"
+export TW_DEFAULT_LANGUAGE="zh-cn"
 export LC_ALL="C"
 export ALLOW_MISSING_DEPENDENCIES=true
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
@@ -43,8 +43,8 @@ export OF_HIDE_NOTCH=1
 export OF_CLOCK_POS=1
 export OF_ALLOW_DISABLE_NAVBAR=0
 export OF_QUICK_BACKUP_LIST="/boot;/data;"
-#export FOX_VERSION="R11.1_4"
-#export FOX_VARIANT="A12L"
+export FOX_VERSION="R11.1"
+export FOX_VARIANT="A12.1"
 export OF_MAINTAINER="LwithM"
 export OF_MAINTAINER_AVATAR="/root/mzic/LwithM.png"
 export FOX_USE_SPECIFIC_MAGISK_ZIP="/root/mzic/Magisk-v25.2.zip"
